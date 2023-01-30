@@ -1,0 +1,133 @@
+---
+title: "Data Wrangling Assessment Task 2: Creating and pre-processing synthetic data"
+author: "Insert student name and number here"
+subtitle: 
+output: 
+  word_document: default
+  html_document:
+    df_print: paged
+  html_notebook: default
+---
+If you have any questions regarding the assignment instructions and the R Markdown template, please post it on the discussion board **Questions on completing Assessment 2.**  
+
+
+## Setup 
+
+Insert and load the packages you need to produce the report here:
+```{r}
+# This is a chunk where you can load the packages required for producing the report
+
+install.packages("tinytex")
+```
+
+
+## Instructions
+Follow the instructions given in the Assessment brief to fill out the template below. Remember to include R codes and outputs and explain your working and results in plain text.
+
+
+## Data Description 
+
+Write your plain text here. 
+
+You may use a bullet list like this: 
+
+* bullet point 1
+* bullet point 2
+* ....
+
+
+```{r}
+
+# This is a chunk for creating your synthetic datasets. 
+# Provide your R code here
+
+```
+
+
+## Merge
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk for merging the datasets. 
+# Provide your R code here
+
+```
+
+
+## Understand 
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you inspect the types of variables, data structures, check the attributes in the data and apply proper data type conversions
+
+```
+
+
+
+##	Manipulate Data 
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you create/mutate at least one variable from existing variables
+
+```
+
+##	Scan I 
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you scan the data for missing values.
+
+```
+
+##	Scan II
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you scan the numeric data for outliers. 
+
+```
+
+
+##	Transform 
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you apply an appropriate transformation to at least one of the variables.
+
+```
+
+
+## Summary statistics
+
+Write your plain text here.
+
+
+```{r}
+
+# This is a chunk where you produce summary statistics.
+
+```
+
+
+
+<br>
+<br>
